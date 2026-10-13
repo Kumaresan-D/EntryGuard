@@ -1,0 +1,15 @@
+streamlit
+requests
+ultralytics
+opencv-python
+fastapi
+uvicorn[standard]
+python-multipart
+celery
+pywin32; sys_platform == "win32"
+lap
+streamlit-image-coordinates
+openvino
+python-dotenv
+playwright
+minio

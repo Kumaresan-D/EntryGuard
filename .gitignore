@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.pt
+*_openvino_model/
+storage/
+*_log.txt
+scratch_test_*
+.env
